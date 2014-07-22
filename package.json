@@ -1,0 +1,19 @@
+{
+  "name": "skull-nodejs",
+  "version": "0.0.0",
+  "description": "Node.js Skull",
+  "main": "index.js",
+  "scripts": {
+    "test": "make ci"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/korczis/skull-nodejs.git"
+  },
+  "author": "Tomas Korcak <korczis@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/korczis/skull-nodejs/issues"
+  },
+  "homepage": "https://github.com/korczis/skull-nodejs"
+}
